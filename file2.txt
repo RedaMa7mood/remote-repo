@@ -1,1 +1,3 @@
+3rd added
 first line in remote file2.txt
+second added
